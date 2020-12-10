@@ -12,6 +12,7 @@ application_group: # group, usually the same as the user
 install_root: # path on remote to where all your applications go
 exec_path: # may be needed if python is not on the path, alternatively set the full path to python above
 ssl_certs: # See the nginx role for details.
+domains:  # domain where your application is hosted. you may want to set this distinctly in the environment specific config
 
 ##########################
 

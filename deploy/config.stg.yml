@@ -1,4 +1,3 @@
-domains: "stg-storymap.knightlab.com"
 
 init_env_stg:
   EXAMPLE_VAR: "This is staging"
