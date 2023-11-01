@@ -1,7 +1,7 @@
 project_name: ExampleProject
 service_name: "{{ project_name|lower }}"
 gitdeploy_version: "1.0.6"
-python: python3.7
+python_version: "3.10.2"
 service_port: 5000
 
 
